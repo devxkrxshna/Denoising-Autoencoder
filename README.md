@@ -1,1 +1,1 @@
-# Denoising-Autoencoder
+# Denoising-Autoencoder - main project
